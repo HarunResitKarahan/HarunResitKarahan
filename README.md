@@ -75,5 +75,5 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harunresitkarahan&show_icons=true&title_color=131b44&text_color=131b44&hide_border=true&locale=en&layout=compact" alt="harunresitkarahan" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunresitkarahan&show_icons=true&locale=en" alt="harunresitkarahan" width="600" height="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunresitkarahan&show_icons=true&locale=en" alt="harunresitkarahan"/>
 </p>
