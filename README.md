@@ -78,5 +78,5 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunresitkarahan&show_icons=true&locale=en" alt="harunresitkarahan" width="250" height="80vw;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunresitkarahan&show_icons=true&locale=en" alt="harunresitkarahan" width="80vw;" height="80vw;"/>
 </p>
