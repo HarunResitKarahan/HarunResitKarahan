@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunresitkarahan&label=Profile%20views&color=0e75b6&style=flat" alt="harunresitkarahan" /> </p>
 
-- 🌱 I’m currently learning **Next.Js, Dotnet**
+- 🌱 I’m currently learning **Next.Js, .Net**
 
 - 💬 Ask me about **Vue.Js, Django, Node.Js**
 
