@@ -1,6 +1,6 @@
 <h3 align="center">Full Stack VueJS/Django/NodeJS Developer - Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harunresitkarahan&label=Profile%20views&color=0e75b6&style=flat" alt="harunresitkarahan" /> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **Next.Js, .Net**
 
