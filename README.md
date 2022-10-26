@@ -73,7 +73,7 @@
 
 <h3 align="left">Add-ons:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=prussian" alt="harunresitkarahan" width="48%" height="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=vue-dark" alt="harunresitkarahan" width="48%" height="400"/>
   !(https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=prussian)
   [!(https://github-readme-stats.vercel.app/api?username=HarunResitKarahan)](https://github.com/anuraghazra/github-readme-stats)
 </p>
