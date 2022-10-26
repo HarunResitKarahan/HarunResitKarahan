@@ -75,5 +75,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunresitkarahan&show_icons=true&locale=en" alt="harunresitkarahan" width="48%" height="400"/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=prussian)
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarunResitKarahan)](https://github.com/HarunResitKarahan/github-readme-stats)
 </p>
