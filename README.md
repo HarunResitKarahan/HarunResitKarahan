@@ -76,6 +76,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=vue-dark" alt="harunresitkarahan"  />
   
 </p>
-<p align="center">
-  <img align="center" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunResitKarahan&layout=vue-dark" alt="harunresitkarahan" />
-</p>
+
