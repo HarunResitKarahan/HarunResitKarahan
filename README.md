@@ -72,7 +72,9 @@
 </p>
 
 <h3 align="left">Add-ons:</h3>
-<p align="center">
+<p align="center" style="
+    width: fit-content;
+">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunResitKarahan&layout=compact" alt="harunresitkarahan"  />
 </p>
 <p align="center">
