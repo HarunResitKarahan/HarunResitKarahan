@@ -2,7 +2,7 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **React.Js, .Net**
+- 🌱 I’m currently learning *SAP ABAP**
 
 - 💬 Ask me about **Vue.Js, Django, Node.Js**
 
