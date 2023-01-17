@@ -73,7 +73,6 @@
 
 <h3 align="left">Add-ons:</h3>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunResitKarahan&layout=compact&theme=vue-dark" alt="harunresitkarahan"  />
-<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=HarunResitKarahan&show_icons=true&theme=vue-dark" alt="harunresitkarahan"  />
+
 </div>
 
