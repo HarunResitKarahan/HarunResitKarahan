@@ -2,7 +2,7 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning *SAP ABAP**
+- 🌱 I’m currently learning *SAP Fiori**
 
 - 💬 Ask me about **Vue.Js, Django, Node.Js**
 
