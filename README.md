@@ -2,9 +2,9 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning *SAP Fiori**
+- 🌱 I’m currently learning ** DevOps **
 
-- 💬 Ask me about **Vue.Js, Django, Node.Js**
+- 💬 Ask me about **SAP Fiori, SAPUI5, SAP BTP, SAP Mobile Services, SAP Asset Manager, SAP Build Apps, SAP MDK**
 
 - 📫 How to reach me **harun0836@gmail.com**
 
