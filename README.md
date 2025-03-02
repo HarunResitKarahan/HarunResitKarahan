@@ -1,8 +1,8 @@
-<h3 align="center">Full Stack VueJS/Django/NodeJS Developer - Computer Engineer</h3>
+<h3 align="center">SAP Fiori/MDK Developer - Computer Engineer</h3>
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning ** DevOps **
+- 🌱 *
 
 - 💬 Ask me about **SAP Fiori, SAPUI5, SAP BTP, SAP Mobile Services, SAP Asset Manager, SAP Build Apps, SAP MDK**
 
